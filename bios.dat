@@ -300,13 +300,13 @@ game (
 	rom ( name dc/naomi2.zip md5 960ece0dc22a7c5ff81c812a2993e7cc )
 	
 	comment "Nintendo DS"
-	rom ( name firmware.bin )
+	rom ( name firmware.bin size 262144 )
 	rom ( name bios7.bin md5 df692a80a5b1bc90728bc3dfc76cd948 )
 	rom ( name bios9.bin md5 a392174eb3e572fed6447e956bde4b25 )
 	rom ( name dsi_bios7.bin md5 559dae4ea78eb9d67702c56c1d791e81 )
 	rom ( name dsi_bios9.bin md5 87b665fce118f76251271c3732532777 )
-	rom ( name dsi_firmware.bin )
-	rom ( name dsi_nand.bin )
+	rom ( name dsi_firmware.bin size 131072 )
+	rom ( name dsi_nand.bin size 251658304 )
 	
 	comment "Neogeo"
 	rom ( name neogeo.zip md5 dffb72f116d36d025068b23970a4f6df )
