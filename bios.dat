@@ -1,0 +1,449 @@
+clrmamepro (
+	name "KNULLI"
+	description "KNULLI"
+	comment "md5s taken from Bios checker"
+	version v1
+	author "Odio"
+	homepage "https://github.com/DemonKingOdio/Knulli-system-Dat"
+	url "https://github.com/DemonKingOdio/Knulli-system-Dat"
+)
+
+game (
+	name "bios"
+	comment "bios"
+
+	comment "3DO Interactive Multiplayer"
+	rom ( name panafz1.bin md5 f47264dd47fe30f73ab3c010015c155b )
+	rom ( name panafz10.bin md5 51f2f43ae2f3508a14d9f56597e2d3ce )
+	rom ( name goldstar.bin md5 8639fd5e549bd6238cfee79e3e749114 )
+	
+	comment "Adam"
+	rom ( name adam.zip md5 4fe4f6800076ea3d897d4285653447bd )
+	rom ( name adam_ddp.zip md5 0423e9e9bf5036aa1e9d656b6a1f842c )
+	rom ( name adam_fdc.zip md5 a1a2a353dea4b8769a2da733822abfdc )
+	rom ( name adam_kb.zip md5 d81e0b2bb6b98999541c5f40b489e88f )
+	rom ( name adam_prn.zip md5 3cdf2fe48ac4224b56f26c03f6c68982 )
+	
+	comment "Advision"
+	rom ( name advision.zip md5 fc5e71445e4947a9d00eedbc66b13a8f )
+	
+	comment "Amiga1200"
+	rom ( name amiga/kick39106.A1200 md5 b7cc148386aa631136f510cd29e42fc3 )
+	rom ( name amiga/kick40068.A1200 md5 646773759326fbac3b2311fd8c8793ee )
+	rom ( name amiga/kick40068.A4000 md5 9bdedde6a4f33555b4a270c8ca53297d )
+	rom ( name amiga/amiga-os-300-a1200.rom md5 b7cc148386aa631136f510cd29e42fc3 )
+	rom ( name amiga/amiga-os-310-a1200.rom md5 646773759326fbac3b2311fd8c8793ee )
+	rom ( name amiga/amiga-os-310-a3000.rom md5 413590e50098a056cfec418d3df0212d )
+	rom ( name amiga/amiga-os-310-a4000.rom md5 9bdedde6a4f33555b4a270c8ca53297d )
+	rom ( name amiga/amiga-os-310.rom md5 730888fb1bd9a3606d51f772ed136528 )
+	
+	comment "Amiga500"
+	rom ( name amiga/kick33180.A500 md5 85ad74194e87c08904327de1a9443b7a )
+	rom ( name amiga/kick37175.A500 md5 dc10d7bdd1b6f450773dfb558477c230 )
+	rom ( name amiga/kick34005.A500 md5 82a21c1890cae844b3df741f2762d48d )
+	rom ( name amiga/kick37350.A600 md5 465646c9b6729f77eea5314d1f057951 )
+	rom ( name amiga/kick40063.A600 md5 e40a5dfb3d017ba8779faba30cbd1c8e )
+	rom ( name amiga/amiga-os-120.rom md5 85ad74194e87c08904327de1a9443b7a )
+	rom ( name amiga/amiga-os-130.rom md5 82a21c1890cae844b3df741f2762d48d )
+	rom ( name amiga/amiga-os-204.rom md5 dc10d7bdd1b6f450773dfb558477c230 )
+	rom ( name amiga/amiga-os-205.rom md5 465646c9b6729f77eea5314d1f057951 )
+	rom ( name amiga/amiga-os-310-a600.rom md5 e40a5dfb3d017ba8779faba30cbd1c8e )
+	
+	comment "Amigacd32"
+	rom ( name amiga/kick40060.CD32 md5 5f8924d013dd57a89cf349f4cdedc6b1 )
+	rom ( name amiga/kick40060.CD32.ext md5 bb72565701b1b6faece07d68ea5da639 )
+	rom ( name amiga/amiga-os-310-cd32.rom md5 5f8924d013dd57a89cf349f4cdedc6b1 )
+	rom ( name amiga/amiga-ext-310-cd32.rom md5 bb72565701b1b6faece07d68ea5da639 )
+	
+	comment "Amigacdtv"
+	rom ( name amiga/kick34005.A500 md5 82a21c1890cae844b3df741f2762d48d )
+	rom ( name amiga/kick34005.CDTV md5 89da1838a24460e4b93f4f0c5d92d48d )
+	rom ( name amiga/amiga-os-130.rom md5 82a21c1890cae844b3df741f2762d48d )
+	rom ( name amiga/amiga-ext-130-cdtv.rom md5 89da1838a24460e4b93f4f0c5d92d48d )
+	
+	comment "Apfm1000"
+	rom ( name apfm1000.zip md5 89a7cfa5469ce24773721d65b28f8544 )
+	
+	comment "Apple2"
+	rom ( name apple2e.zip md5 0b150f4bfa090770a866cc5d214703f4 )
+	rom ( name apple2ee.zip md5 6b11018a14668a7e3904319d2097dddc )
+	rom ( name apple2p.zip md5 9ac0dc8c4d0002eb45b0b84be0bde5ec )
+	rom ( name a2diskiing.zip md5 2020aa1413ff77fe29353f3ee72dc295 )
+	rom ( name a2cffa02.zip md5 80adbc2d79f347ec63f4b771ea32984d )
+	rom ( name votrsc01.zip md5 8ccf35a06f5e9a2131b0f42380ee5c15 )
+	rom ( name votrsc01a.zip md5 95b91e4a2fe7d6f13d353ba1827d37f9 )
+	rom ( name d2fdc.zip md5 5f1be0c1cdff26f5956eef9643911886 )
+	
+	comment "Apple2gs"
+	rom ( name apple2gs.zip md5 68ff96a624237d233e8d4c701f660dd1 )
+	
+	comment "Archimedes"
+	rom ( name aa310.zip md5 232a302efe19278d9df6ecbc8ea3dc6c )
+	rom ( name archimedes_keyboard.zip md5 1a8617c1abe3e0729d20ce844e1e12a8 )
+	
+	comment "Astrocde"
+	rom ( name astrocde.zip md5 7d25a26e5c4841b364cfe6b1735eaf03 )
+	
+	comment "Atari5200"
+	rom ( name 5200.rom md5 281f20ea4320404ec820fb7ec0693b38 )
+	
+	comment "Atari800"
+	rom ( name ATARIOSA.ROM md5 eb1f32f5d9f382db1bbfb8d7f9cb343a )
+	rom ( name ATARIOSB.ROM md5 4177f386a3bac989a981d3fe3388cb6c )
+	rom ( name ATARIXL.ROM md5 06daac977823773a3eea3422fd26a703 )
+	rom ( name ATARIBAS.ROM md5 0bac0c6a50104045d902df4503a4c30b )
+	
+	comment "Atarist"
+	rom ( name tos.img md5 c1c57ce48e8ee4135885cee9e63a68a2 )
+	rom ( name tos100fr.img md5 25789a649faff0a1176dc7d9b98105c0 )
+	rom ( name tos100uk.img md5 c87a52c277f7952b41c639fc7bf0a43b )
+	rom ( name tos100us.img md5 d0f682ee6237497004339fb02172638b )
+	rom ( name tos102de.img md5 a622cc35d8d78703905592dfaa4d2ccb )
+	rom ( name tos102fr.img md5 d6521785627d20c51edc566808a6bf28 )
+	rom ( name tos102uk.img md5 b2a8570de2e850c5acf81cb80512d9f6 )
+	rom ( name tos104de.img md5 41b7dae4e24735f330b63ad923a0bfbc )
+	rom ( name tos104es.img md5 143343f7b8e0b1162af206fe8f46b002 )
+	rom ( name tos104fr.img md5 0087e2707c57efa2106a0aa7576655c0 )
+	rom ( name tos104uk.img md5 036c5ae4f885cbf62c9bed651c6c58a8 )
+	rom ( name tos104us.img md5 736adb2dc835df4d323191fdc8926cc9 )
+	rom ( name tos106de.img md5 992bac38e01633a529121a2a65f0779e )
+	rom ( name tos106es.img md5 30f69d70fe7c210300ed83f991b12de9 )
+	rom ( name tos106fr.img md5 bc7b224d0dc3f0cc14c8897db89c5787 )
+	rom ( name tos106uk.img md5 6033f2b9364edfed321c6931a8181fd2 )
+	rom ( name tos106us.img md5 a0982e760f9807d82667ff5a69e78f6b )
+	rom ( name tos162de.img md5 94a75c1c65408d9f974b0463e15a3b11 )
+	rom ( name tos162fr.img md5 ed5fbaabe0219092df74c6c14cea3f8e )
+	rom ( name tos162uk.img md5 1cbc4f55295e469fc8cd72b7efdea1da )
+	rom ( name tos162us.img md5 febb00ba8784798293a7ae709a1dafcb )
+	rom ( name tos205de.img md5 7aeabdc25f8134590e25643a405210ca )
+	rom ( name tos205es.img md5 7449b131681f1dfe62ebed1392847057 )
+	rom ( name tos205fr.img md5 61b620ad951815a25cb37895c81a947c )
+	rom ( name tos205it.img md5 7e87d8fe7e24e0b4c55ad1b7955beae3 )
+	rom ( name tos205us.img md5 7cdd45b6aac66a21bfb357d9334e46db )
+	rom ( name tos206de.img md5 0604dbb85928f0598d04144a8b554bbe )
+	rom ( name tos206fr.img md5 b2873004a408b8db36321f98daafa251 )
+	rom ( name tos206.img md5 4a0d4f282c3f2a0196681adf88862dd4 )
+	rom ( name tos206uk.img md5 e690bec90d902024beed549d22150755 )
+	rom ( name tos206us.img md5 c9093f27159e7d13ac0d1501a95e53d4 )
+	rom ( name tos306de.img md5 066f39a7ea5789d5afd59dd7b3104fa6 )
+	rom ( name tos306uk.img md5 dd1010ec566efbd71047d6c4919feba5 )
+	rom ( name tos400.img md5 ed2647936ce4bd283c4d7dfd7ae09d1c )
+	rom ( name tos402.img md5 9e880168d0a004f7f5e852be758f39e4 )
+	rom ( name tos404.img md5 e5ea0f216fb446f1c4a4f476bc5f03d4 )
+	
+	comment "Atom"
+	rom ( name atom.zip md5 9627dfb5f8302db8dd5702dbf7c09f72 )
+	
+	comment "Atomiswave"
+	rom ( name dc/awbios.zip md5 85254fbe320ca82a768ec2c26bb08def )
+	
+	comment "Bbc"
+	rom ( name bbcb.zip md5 35e9ab10bcf016bd24b4c716add009b9 )
+	rom ( name bbc_acorn8271.zip md5 1d250b0242e447e9106e8bfd1f27ea84 )
+	rom ( name saa5050.zip md5 8b3c10a2317808ed94d6c6073b5b3327 )
+	rom ( name bbc_tube_80186.zip md5 e6e84221c29b5d31d07055039583c8e7 )
+	rom ( name bbcm.zip md5 3f3dd4614db30f6e383794731272076a )
+	rom ( name bbcmc.zip md5 956bf71da840943050836ade2474ef7b )
+	rom ( name bbc_bitstik1.zip md5 baf5cb5564ff6e6b4400243e7612f323 )
+	rom ( name bbc_bitstik2.zip md5 c196c145b3de630f85f625ca762e5504 )
+	rom ( name mame/samples/bbc.zip )
+	
+	comment "Camplynx"
+	rom ( name lynx48k.zip md5 dde90a794e5324002a9fd7f79cec3172 )
+	rom ( name lynx96k.zip md5 89ba52f683cd79638646874e965476b6 )
+	rom ( name lynx128k.zip md5 f9f54913cdedb22bb8f0c549ad121379 )
+	
+	comment "Cdi"
+	rom ( name cdimono1.zip md5 3d20cf7550f1b723158b42a1fd5bac62 )
+	
+	comment "Channel-F"
+	rom ( name sl31253.bin md5 ac9804d4c0e9d07e33472e3726ed15c3 )
+	rom ( name sl31254.bin md5 da98f4bb3242ab80d76629021bb27585 )
+	rom ( name sl90025.bin md5 95d339631d867c8f1d15a5f2ec26069d )
+	
+	comment "Coco"
+	rom ( name coco.zip md5 a74f3d95b395dad7cdca19d560eeea74 )
+	rom ( name coco2.zip md5 21070aa0496142b886c562bf76d7c113 )
+	rom ( name coco2b.zip md5 c2fc43556eb6b7b25bdf5955bd9df825 )
+	rom ( name coco3.zip md5 7233c6c429f3ce1c7392f28a933e0b6f )
+	rom ( name coco3p.zip md5 4ae57e5a8e7494e5485446fefedb580b )
+	rom ( name coco_fdc_v11.zip md5 8cab28f4b7311b8df63c07bb3b59bfd5 )
+	
+	comment "Crvision"
+	rom ( name crvision.zip md5 3b1ef759d8e3fb4071582efd33dd05f9 )
+	
+	comment "Dreamcast"
+	rom ( name dc_boot.bin md5 e10c53c2f8b90bab96ead2d368858623 )
+	rom ( name dc_flash.bin md5 0a93f7940c455905bea6e392dfde92a4 )
+	
+	comment "Electron"
+	rom ( name electron.zip md5 4688a93aa298b9431c1788c9b90378c8 )
+	rom ( name electron64.zip md5 df01cfe5894276de96bbd1c45b7e834c )
+	rom ( name electron_plus1.zip md5 f3a39227b401a2ce8cdc7e4b7a860aaf )
+	rom ( name electron_plus3.zip md5 5c39baa89fe8a40a5167a53cc5ae7791 )
+	
+	comment "Family Computer Disk System"
+	rom ( name disksys.rom md5 ca30b50f880eb660a320674ed365ef7a )
+	
+	comment "Fm7"
+	rom ( name fm7.zip md5 d19ed5923aaae2ec43dffe7a0daa80cb )
+	rom ( name fm77av.zip md5 7db27dede3e358017d518101850bccfa )
+	
+	comment "Fmtowns"
+	rom ( name fmtowns/FMT_DIC.ROM md5 8fa4e553f28cfc0c30a0a1e589799942 )
+	rom ( name fmtowns/FMT_DOS.ROM md5 0585b19930d4a7f4c71bcc8a33746588 )
+	rom ( name fmtowns/FMT_F20.ROM md5 ac0c7021e9bf48ca84b51ab651169a88 )
+	rom ( name fmtowns/FMT_FNT.ROM md5 b91300e55b70227ce98b59c5f02fa8dd )
+	rom ( name fmtowns/FMT_SYS.ROM md5 86fb6f7280689259f0ca839dd3dd6cde )
+	rom ( name fmtmarty.zip md5 75a5c7afb4bc8221bab8cf24db417950 )
+	rom ( name fmtowns.zip md5 feaf8c5675151e00cfe3ad27673bff29 )
+	rom ( name fmtownsux.zip md5 1a15f6c1b58ec7e5f850118610a787a7 )
+	
+	comment "Gamate"
+	rom ( name gamate.zip md5 ef67993a94503c4b7798b5901c7dda52 )
+	
+	comment "Gamecom"
+	rom ( name gamecom.zip md5 f7bcefb6daf923c8e5ea2eb69f619efe )
+	
+	comment "Gamepock"
+	rom ( name gamepock.zip md5 a0dd595eafb407a6a4b4ed800005a394 )
+	
+	comment "Game Boy Advance"
+	rom ( name gba_bios.bin md5 a860e8c0b6d573d191e4ec7db1b1e4f6 )
+	rom ( name gb_bios.bin md5 32fbbd84168d3482956eb3c5051637f5 )
+	rom ( name gbc_bios.bin md5 dbfce9db9deaa2567f6a84fde55f9680 )
+	rom ( name sgb_bios.bin md5 d574d4f9c12f305074798f54c091a8b4 )
+	
+	comment "Gmaster"
+	rom ( name gmaster.zip md5 6bff08b5e5f96de405cd56d5f04a08f8 )
+	
+	comment "Gp32"
+	rom ( name gp32.zip md5 d4af2bc352bdaf4972ea40902feda114 )
+	
+	comment "Mattel Intellivision"
+	rom ( name exec.bin md5 62e761035cb657903761800f4437b8af )
+	rom ( name grom.bin md5 0cd5946c6473e42e8e4c2137785e427f )
+	
+	comment "Laser310"
+	rom ( name laser310.zip md5 f7e5d9a3eb2b57bf5f4e2a4565318a8f )
+	
+	comment "Atari Lynx"
+	rom ( name lynxboot.img md5 fcd403db69f54290b51035d82f835e7b )
+	
+	comment "Macintosh"
+	rom ( name MacII.ROM md5 66223be1497460f1e60885eeb35e03cc )
+	rom ( name MacIIx.ROM md5 2a8a4c7f2a38e0ab0771f59a9a0f1ee4 )
+	rom ( name mac128k.zip md5 409d8b9a04db15b7bfbbd5fcb931bf2e )
+	rom ( name mackbd_m0110.zip md5 9d09a9a51c9ef3ea5719e19db22e7901 )
+	rom ( name mackbd_m0120.zip md5 9d09a9a51c9ef3ea5719e19db22e7901 )
+	rom ( name mac512k.zip md5 ab4e461833e98ef7106f24455a07769d )
+	rom ( name macplus.zip md5 f4b06da98500df0747a764dfbf1862b9 )
+	rom ( name macse.zip md5 9fb38bdcc0d53d9d380897ee53dc1322 )
+	rom ( name macclasc.zip md5 c229bb677cb41b84b780c9e38a09173e )
+	rom ( name mac2fdhd.zip md5 2a8a4c7f2a38e0ab0771f59a9a0f1ee4 )
+	rom ( name nb_mdc824.zip md5 7500a6a958247ee6e092f08715f2fff8 )
+	rom ( name maciix.zip md5 2a8a4c7f2a38e0ab0771f59a9a0f1ee4 )
+	rom ( name maclc3.zip md5 fa16d49527c4e6e9c0d9e46904133d39 )
+	rom ( name mackbd_m0110a.zip md5 9e8ea1552153c5e0f895e247e7d3ec1c )
+	rom ( name nb_image.zip md5 93155ac7bad0fec36837252bb1e408f2 )
+	rom ( name egret.zip md5 5035d321c5d5fa1eab5ce6bf986676e4 )
+	rom ( name adbmodem.zip md5 862b8598cecdbc934658c4cb599a8142 )
+	rom ( name macos3.img )
+	rom ( name macos608.img )
+	rom ( name macos701.img )
+	rom ( name macos75.img )
+	rom ( name mac608.chd )
+	rom ( name mac701.chd )
+	rom ( name mac755.chd )
+	
+	comment "Msu-md"
+	rom ( name bios_CD_E.bin md5 e66fa1dc5820d254611fdcdba0662372 )
+	rom ( name bios_CD_U.bin md5 854b9150240a198070150e4566ae1290 )
+	rom ( name bios_CD_J.bin md5 278a9397d192149e84e820ac621a8edd )
+	
+	comment "Msx"
+	rom ( name MSX.ROM md5 364a1a579fe5cb8dba54519bcfcdac0d )
+	
+	comment "MSX1"
+	rom ( name openmsx/px-7_pbasic.rom md5 281809cafe63437fc4bffb3033fbd0db )
+	rom ( name openmsx/px-7basic-bios1.rom md5 9218f6dd89f7ba01e3090d44721b4260 )
+	
+	comment "MSX2"
+	rom ( name MSX2.ROM md5 ec3a01c91f24fbddcbcab0ad301bc9ef )
+	rom ( name MSX2EXT.ROM md5 2183c2aff17cf4297bdb496de78c2e8a )
+	
+	comment "Msx2+"
+	rom ( name openmsx/fs-a1wsx_kanjifont.rom md5 acf53887c2d2783dc059a9b442c86b90 )
+	rom ( name openmsx/fs-a1wsx_basic-bios2p.rom md5 c5c26c3e8bc6c485424818057f0507b9 )
+	rom ( name openmsx/fs-a1wsx_fmbasic.rom md5 0c40e7db1c1fcc2405e4d0cdd215adb4 )
+	rom ( name openmsx/fs-a1wsx_msx2psub.rom md5 7c8243c71d8f143b2531f01afa6a05dc )
+	rom ( name openmsx/fs-a1wsx_kanjibasic.rom md5 9dfdebfaa6b547222a40aab8bb2e29f8 )
+	rom ( name openmsx/fs-a1wsx_disk.rom md5 00aa02b6077de40a0b51d71a3c3e1d5f )
+	rom ( name openmsx/fs-a1wsx_firmware.rom md5 fa8e7d4b999af058fe2864a5f2e014ec )
+	rom ( name openmsx/phc-70fd2_basickun.rom md5 2ce20986da024e9a0e271961c6bc9f01 )
+	rom ( name openmsx/yrw801.rom md5 42af93619160ef2116416f74a6cb12f2 )
+	
+	comment "Msxturbor"
+	rom ( name openmsx/fs-a1gt_firmware.rom md5 af17a344bcc177b97a4888c4c559f3ae )
+	rom ( name openmsx/fs-a1gt_kanjifront.rom md5 acf53887c2d2783dc059a9b442c86b90 )
+	rom ( name openmsx/ide250.zip md5 afa4b5f2944334f84971af814a24bd5a )
+	rom ( name openmsx/phc-70fd2_basickun.rom md5 2ce20986da024e9a0e271961c6bc9f01 )
+	rom ( name openmsx/yrw801.rom md5 42af93619160ef2116416f74a6cb12f2 )
+	
+	comment "N64dd"
+	rom ( name 64DD_IPL.bin md5 8d3d9f294b6e174bc7b1d2fd1c727530 )
+	
+	comment "Naomi"
+	rom ( name dc/naomi.zip md5 eb4099aeb42ef089cfe94f8fe95e51f6 )
+	
+	comment "Naomi2"
+	rom ( name dc/naomi2.zip md5 960ece0dc22a7c5ff81c812a2993e7cc )
+	
+	comment "Nintendo DS"
+	rom ( name firmware.bin )
+	rom ( name bios7.bin md5 df692a80a5b1bc90728bc3dfc76cd948 )
+	rom ( name bios9.bin md5 a392174eb3e572fed6447e956bde4b25 )
+	rom ( name dsi_bios7.bin md5 559dae4ea78eb9d67702c56c1d791e81 )
+	rom ( name dsi_bios9.bin md5 87b665fce118f76251271c3732532777 )
+	rom ( name dsi_firmware.bin )
+	rom ( name dsi_nand.bin )
+	
+	comment "Neogeo"
+	rom ( name neogeo.zip md5 dffb72f116d36d025068b23970a4f6df )
+	
+	comment "Neo-Geo CD"
+	rom ( name neocd/neocd_f.rom md5 8834880c33164ccbe6476b559f3e37de )
+	rom ( name neocd/neocd_sf.rom md5 043d76d5f0ef836500700c34faef774d )
+	rom ( name neocd/neocd_t.rom md5 de3cf45d227ad44645b22aa83b49f450 )
+	rom ( name neocd/neocd_st.rom md5 f6325a33c6d63ea4b9162a3fa8c32727 )
+	rom ( name neocd/neocd_z.rom md5 11526d58d4c524daef7d5d677dc6b004 )
+	rom ( name neocd/neocd_sz.rom md5 971ee8a36fb72da57aed01758f0a37f5 )
+	rom ( name neocd/front-sp1.bin md5 5c2366f25ff92d71788468ca492ebeca )
+	rom ( name neocd/top-sp1.bin md5 122aee210324c72e8a11116e6ef9c0d0 )
+	rom ( name neocd/neocd.bin md5 f39572af7584cb5b3f70ae8cc848aba2 )
+	rom ( name neocd/uni-bioscd.rom md5 08ca8b2dba6662e8024f9e789711c6fc )
+	
+	comment "O2em"
+	rom ( name o2rom.bin md5 562d5ebf9e030a40d6fabfc2f33139fd )
+	rom ( name c52.bin md5 f1071cdb0b6b10dde94d3bc8a6146387 )
+	
+	comment "Pc88"
+	rom ( name quasi88/N88.ROM md5 4f984e04a99d56c4cfe36115415d6eb8 )
+	rom ( name quasi88/N88SUB.ROM md5 793f86784e5608352a5d7f03f03e0858 )
+	rom ( name quasi88/N88N.ROM md5 2ff07b8769367321128e03924af668a0 )
+	rom ( name quasi88/N88KNJ1.ROM md5 d81c6d5d7ad1a4bbbd6ae22a01257603 )
+	rom ( name quasi88/N88EXT0.ROM md5 d675a2ca186c6efcd6277b835de4c7e5 )
+	rom ( name quasi88/N88EXT1.ROM md5 e844534dfe5744b381444dbe61ef1b66 )
+	rom ( name quasi88/N88EXT2.ROM md5 6548fa45061274dee1ea8ae1e9e93910 )
+	rom ( name quasi88/N88EXT3.ROM md5 fc4b76a402ba501e6ba6de4b3e8b4273 )
+	
+	comment "Pc98"
+	rom ( name np2kai/BIOS.ROM md5 e246140dec5124c5e404869a84caefce )
+	rom ( name np2kai/FONT.ROM md5 2af6179d7de4893ea0b705c00e9a98d6 )
+	rom ( name np2kai/SOUND.ROM md5 caf90f22197aed6f14c471c21e64658d )
+	rom ( name np2kai/ITF.ROM md5 e9fc3890963b12cf15d0a2eea5815b72 )
+	rom ( name np2kai/font.bmp md5 7da1e5b7c482d4108d22a5b09631d967 )
+	
+	comment "PC Engine"
+	rom ( name syscard3.pce md5 38179df8f4ac870017db21ebcbf53114 )
+	
+	comment "PlayStation"
+	rom ( name psxonpsp660.bin md5 c53ca5908936d412331790f4426c6c33 )
+	rom ( name scph101.bin md5 6e3735ff4c7dc899ee98981385f6f3d0 )
+	rom ( name scph1001.bin md5 dc2b9bf8da62ec93e868cfd29f0d067d )
+	rom ( name scph5500.bin md5 8dd7d5296a650fac7319bce665a6a53c )
+	rom ( name scph5501.bin md5 490f666e1afb15b7362b406ed1cea246 )
+	rom ( name scph5502.bin md5 32736f17079d0b2b7024407c39bd3050 )
+	rom ( name scph7001.bin md5 1e68c231d0896b7eadcad1d7d8e76129 )
+	
+	comment "Satellaview"
+	rom ( name BS-X.bin md5 96cf17bf589fcbfa6f8de2dc84f19fa2 )
+	
+	comment "Saturn"
+	rom ( name sega_101.bin md5 85ec9ca47d8f6807718151cbcca8b964 )
+	rom ( name mpr-17933.bin md5 3240872c70984b6cbfda1586cab68dbe )
+	rom ( name mpr-18811-mx.ic1 md5 255113ba943c92a54facd25a10fd780c )
+	rom ( name mpr-19367-mx.ic1 md5 1cd19988d1d72a3e7caa0b73234c96b4 )
+	rom ( name saturn_bios.bin md5 af5828fdff51384f99b3c4926be27762 )
+	
+	comment "Scummvm"
+	rom ( name scummvm/extra/MT32_PCM.ROM md5 89e42e386e82e0cacb4a2704a03706ca )
+	rom ( name scummvm/extra/MT32_CONTROL.ROM md5 5626206284b22c2734f3e9efefcd2675 )
+	
+	comment "Scv"
+	rom ( name upd7801g.s01 md5 635a978fd40db9a18ee44eff449fc126 )
+	
+	comment "Sega CD"
+	rom ( name bios_CD_E.bin md5 e66fa1dc5820d254611fdcdba0662372 )
+	rom ( name bios_CD_U.bin md5 854b9150240a198070150e4566ae1290 )
+	rom ( name bios_CD_J.bin md5 278a9397d192149e84e820ac621a8edd )
+	
+	comment "Super Game Boy"
+	rom ( name sgb_boot.bin md5 d574d4f9c12f305074798f54c091a8b4 )
+	rom ( name sgb2_boot.bin md5 e0430bca9925fb9882148fd2dc2418c1 )
+	rom ( name SGB1.sfc md5 b15ddb15721c657d82c5bab6db982ee9 )
+	rom ( name SGB2.sfc md5 8ecd73eb4edf7ed7e81aef1be80031d5 )
+	
+	comment "Socrates"
+	rom ( name socrates.zip md5 31c29c57e3d3e6788ba5817eaaa8b17a )
+	
+	comment "Sufami"
+	rom ( name STBIOS.bin md5 d3a44ba7d42a74d3ac58cb9c14c6a5ca )
+	
+	comment "Supergrafx"
+	rom ( name syscard3.pce md5 38179df8f4ac870017db21ebcbd53114 )
+	
+	comment "Supracan"
+	rom ( name supracan.zip md5 53c4343e062bb3b337370bbb58e64d16 )
+	
+	comment "Ti99"
+	rom ( name ti99_4a.zip md5 0dcb961cf84c69b2171a565427c7c6c7 )
+	rom ( name ti99_speech.zip md5 206daf498ac5d0141de1d47d38afd899 )
+	
+	comment "Tutor"
+	rom ( name tutor.zip md5 5770834c10946ac2c3617504ba530884 )
+	
+	comment "Vectrex"
+	rom ( name vectrex.zip md5 a9c238473229912eb757ff3dfe6f4631 )
+	
+	comment "Vgmplay"
+	rom ( name qsound.zip md5 108b113a596e800a02fece73f784eeb0 )
+	rom ( name ym2413.zip md5 96c11a92992bdff7f7e9d98a52621e1f )
+	rom ( name ym2608.zip md5 8740932cda05e518a9955f1d08d6786f )
+	
+	comment "Videopacplus"
+	rom ( name g7400.bin md5 c500ff71236068e0dc0d0603d265ae76 )
+	rom ( name jopac.bin md5 279008e4a0db2dc5f1c048853b033828 )
+	
+	comment "Vis"
+	rom ( name vis.zip md5 758f8fec271fbf526bb22b36e88f154b )
+	
+	comment "Vsmile"
+	rom ( name vsmile.zip md5 11e59253c578c8f16ea2375ec398e4e9 )
+	
+	comment "X1"
+	rom ( name xmil/IPLROM.X1 md5 eeeea1cd29c6e0e8b094790ae969bfa7 )
+	rom ( name xmil/iplrom.x1t md5 56c28adcf1f3a2f87cf3d57c378013f5 )
+	
+	comment "X68000"
+	rom ( name keropi/iplrom.dat md5 7fd4caabac1d9169e289f0f7bbf71d8e )
+	rom ( name keropi/cgrom.dat md5 cb0a5cfcf7247a7eab74bb2716260269 )
+	
+	comment "Xegs"
+	rom ( name xegs.zip md5 42cbd989802c17d0ac3731d33270d835 )
+	
+	comment "Zc210"
+	rom ( name zc210/zcdata.dat md5 033d7392985841027909c4c32b9f2076 )
+	rom ( name zc210/sf2/default.sf2 md5 39e5bc84ce9aac3a2d297d8aeb2a0d05 )
+	rom ( name zc210/sf2/custom0.sf2 md5 e0ba7a8634b12cfee4b6760a6f89051a )
+	rom ( name zc210/sf2/custom1.sf2 md5 c1dc781c34cff8f9a023c0192754dc6c )
+	rom ( name zc210/sf2/custom2.sf2 md5 144fcdbb6a30f1f916f6963006c2da97 )
+	rom ( name zc210/sf2/custom3.sf2 md5 134d217fb99c3be1e89cfaf8f28280d8 )
+	rom ( name zc210/sf2/custom4.sf2 md5 b37366199c6df9ee5316f031755aa821 )
+	rom ( name zc210/sf2/custom5.sf2 md5 64068b84eb88dc85b75148bbe9b393fb )
+	rom ( name zc210/sf2/custom6.sf2 md5 1241986de5b1d00b02d34f1e6651a1d1 )
+	rom ( name zc210/sf2/custom7.sf2 md5 386db0d538f372a9f1af622d1e934abf )
+	rom ( name zc210/sf2/custom8.sf2 md5 6f68e4baf89c8ee4623c19617319184b )
+	rom ( name zc210/sf2/custom9.sf2 md5 2010e5b85f9e1d60685ccb3d84a17115 )
+	rom ( name zcsf.sf2 md5 e0ba7a8634b12cfee4b6760a6f89051a )
+)
